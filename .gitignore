@@ -29,3 +29,6 @@ htmlcov/
 .direnv
 
 .github/**
+
+ci-cd-codepipeline.cfn.yml
+ci-cd-codepipeline.cfn.*
